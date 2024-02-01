@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/C5603AQF7-65PNpV1Uw/profile-displayphoto-shrink_200_200/0/1597207711640?e=2147483647&v=beta&t=Zo4AHOVubVrov47fM30_rHE_cgndXKHgHOvlp2KFkjE"
+              src="https://media.licdn.com/dms/image/C4E03AQFnCPxXO098IQ/profile-displayphoto-shrink_800_800/0/1571018369191?e=1712188800&v=beta&t=egTpo2opwbM3m7eZmWU8MvbKkuKbInM6H-Yy06gkcKo"
               alt="Venkatesh Ventrapragada portrait"
               width="192"
               height="192"
